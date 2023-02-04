@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Benjamin-Burton
-- 👀 I’m interested in chess, getting to know software, solving problems, and programming. 
-- 🌱 I’m currently learning how Open Source contributions work, Python, support and documentation techniques. 
-- 💞️ I’m looking to collaborate on projects that suit a first-timer. 
+- 👀 I’m interested in chess, cryptic crosswords, tennis and programming.
+- 🌱 I’m currently learning Java, math, and data structures.  
 - 📫 Reach me on GitHub or ben.allan.burton@mgail.com
 <!---
 Benjamin-Burton/Benjamin-Burton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
